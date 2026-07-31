@@ -1,2 +1,2 @@
-# Audio-Processing-
+# Audio Processing
 a sidequest in pytorch 
